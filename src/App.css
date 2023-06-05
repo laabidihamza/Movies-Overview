@@ -229,3 +229,8 @@ h1 {
     margin: 1rem;
   }
 }
+
+h1:hover{
+  opacity: 0.8;
+  cursor: pointer;
+}
